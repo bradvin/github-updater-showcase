@@ -14,7 +14,7 @@
  * Plugin Name:       GitHub Updater Showcase
  * Plugin URI:        http://themergency.com
  * Description:       A demo plugin showing how to integrate the github updater
- * Version:           0.0.1
+ * Version:           0.0.2
  * Author:            Brad Vincent
  * Author URI:        http://themergency.com
  * Text Domain:       github-updater-showcase
